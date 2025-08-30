@@ -75,7 +75,7 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 
    ```bash
    git clone https://github.com/50LPA/LLM-Agent.git
-   cd tds-bonus-project-LLM-Agent
+   cd LLM-Agent
    ```
 
 2. Open `index.html` in your browser.
